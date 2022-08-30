@@ -8,6 +8,12 @@ body {
     background-color: rgb(0, 128, 64);
 }
 
+header {
+    background-color: white;
+    margin: auto;
+    width: 90%;
+}
+
 h1 {
     text-align: center;
     margin:  50px;
@@ -41,7 +47,7 @@ table {
     border: 1px solid;
     padding: 20px;
     margin: auto;
-    min-width:460px;
+    min-width:400px;
     border-radius: 0px 0px 10px 10px;
     -webkit-border-radius: 0px 0px 10px 10px;
     -moz-border-radius: 0px 0px 10px 10px;
